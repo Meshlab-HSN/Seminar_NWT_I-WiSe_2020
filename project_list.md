@@ -5,10 +5,11 @@ If you have further ideas feel free to open a pull request.
 
 **2 or 3 persons per group**
 
+
 | Project title | Project description | primary preference | secondary preference |
 |----------------------  | :---------------------------: | :--------------------: | :--------------------: |
 |Inventory management    | Inventory management for all network components and resources. (e.g. Netbox) | |
-|Network monitoring      | Monitoring several statistics like uptime, traffic, load, etc. (e.g. Cacti, Nagios, Grafana) | |
+|Network monitoring      | Monitoring several statistics like uptime, traffic, load, etc. (e.g. Cacti, Nagios, Grafana) | N. Trapp<br/>J. Haase |
 |Ticket system & wiki    | | |
 |Customer self-services  | Customers can manage and organize their network with the help of provider services and without much knowledge. (see TIP project and its standard) | |
 |CG-NAT and firewall     | Carrier-Grade NAT implementation and configuration of a firewall. | |
