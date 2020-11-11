@@ -15,8 +15,6 @@ CG-NAT and firewall     | Carrier-Grade NAT implementation and configuration of 
 IDS                     | Usage of an intrusion detection system for increasing network security | 
 SIP telephony           | Establishing a telephony system in our ISP network based on SIP protocol. | 
 TV streaming platform   | Providing TV streams for the customers on the ISP network. | 
-VLAN concept for lab    | Working out a VLAN concept for the ISP network.
+VLAN concept for lab    | F.Wenzel<br/>A.Hattenhauer<br/>N.Collmann
 IP address assignment and network redundancy | Organisation of the IP assignment(dhcp?, static?) in the ISP network and implementation of redundancy (USV, cable management, server etc.). | J. Jelonek<br/>P. Büchler
 Remote power sockets    | In case something goes wrong or a device needs a restart, students should have the ability the remotely control the power supply of their desk setups. | 
-DNS Server Konzept ||
-Caching Server Konzept ||
