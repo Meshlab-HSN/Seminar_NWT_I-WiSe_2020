@@ -1,9 +1,9 @@
-# NWT I WiSe 2020 projects
+# ...choose your Projects!
 <br/>
-Here you can find a list of all available projects for WiSe 2020 NWT I.  
-If you have further ideas feel free to open a pull request.  
+Here you find the list of available projects we need to cover to build the gEht-NET ISP network.  
+If you have an additional network related ideas ... feel free to open a pull request.  
 
-**2 or 3 persons per group**
+**Choose & Commit ... 2_to_3 studens per group**
 
 
 | Project title | Project description | primary preference | secondary preference |
