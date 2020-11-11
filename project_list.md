@@ -987,7 +987,7 @@ If you have further ideas feel free to open a pull request.
 <td>Ticket system &amp; wiki</td>
 <td align="center"></td>
 <td align="center"></td>
-<td align="center">M.Wagener OTRS  </td>
+<td align="center">M.Wagener OTRS<br>  </td>
 </tr>
 <tr>
 <td>Customer self-services</td>
