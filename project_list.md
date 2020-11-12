@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-K+2SY5WIogVf/13vJ9BeX4zVI7sQjuctb6bSHvfTYr6EjQSM0YWKa9kCnnlZYAbPazx/aK3+IfeU2Q8m0y3ePA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-2bed92639588a2055fff5def27d05e5f.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-h94fKLEhkpUNd2ccZthb9mQoL7diI7g4vMZZy/i0HJ7lRwA/OodZ7jY+/KP+a7LhtSeLAtRb0ULAZbi1x/YGkw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-87de1f28b12192950d77671c66d85bf6.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-7sD2k+rVTg7JgZpK0DjPVWo7yoyAyijBiVguglcHAbgLFdo4GFeSvKSAyvcRlbbg+HrV8wGFVtekGDN/qhIsTQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-eec0f693ead54e0ec9819a4ad038cf55.css" />
     
     
     
@@ -58,13 +58,13 @@
 
 
 
-  
+    
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/74306851/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NDMwNjg1MSwicyI6NjA3MDg0Njc4LCJjIjozNzA4Mjg5MzU0LCJ0IjoxNjA1MTEwMTUxfQ==--bbed3ad72dcd8e21b308bc3855af1ef84d2b9e583d3dfc693d5ddc08def6aff0" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/74306851/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NDMwNjg1MSwicyI6NjA3MDg0Njc4LCJjIjo4MjA1MTc4MTYsInQiOjE2MDUxOTcyODR9--b83f3e9132dc48946f7af853e8a48f233c5eac644ac0bb33621b66d945be8263" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="8042:9A39:B727D:10148D:5FAC097A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2c69a86e47b0bfb29feb4dc65f450c3de55a6e309c3f92fe0eb71b172d4790f1" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NZXNobGFiLUhTTi9TZW1pbmFyX05XVF9JLVdpU2VfMjAyMCIsInJlcXVlc3RfaWQiOiI4MDQyOjlBMzk6QjcyN0Q6MTAxNDhEOjVGQUMwOTdBIiwidmlzaXRvcl9pZCI6IjkxNDc1MjE2MDE3NDY0ODc1MzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="092655a17ff70a9cde9c1a69a573db8726deab4ea902ad52859159fb00b24970" data-pjax-transient="true" /><meta name="cookie-consent-required" content="true" />
+  <meta name="request-id" content="8360:1D9A:2B7EE4F:3C94B8D:5FAD5DDD" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2c69a86e47b0bfb29feb4dc65f450c3de55a6e309c3f92fe0eb71b172d4790f1" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NZXNobGFiLUhTTi9TZW1pbmFyX05XVF9JLVdpU2VfMjAyMCIsInJlcXVlc3RfaWQiOiI4MzYwOjFEOUE6MkI3RUU0RjozQzk0QjhEOjVGQUQ1REREIiwidmlzaXRvcl9pZCI6IjkxNDc1MjE2MDE3NDY0ODc1MzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="007b347caccbdd25fec14911e33a936bf8d600eddf9f3648edd2d2abe6a1d518" data-pjax-transient="true" /><meta name="cookie-consent-required" content="true" />
 
     <meta name="hovercard-subject-tag" content="repository:311945503" data-pjax-transient>
 
@@ -107,11 +107,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MzcyYTAyNjRmZmM1Yzc3NzgyN2IxNzg3ZDU0OTdhMDEzMzM4ZmM1Y2EyZDE3M2YwZTcwMmEzOGJmOTAxNGQ2Ynx7InJlbW90ZV9hZGRyZXNzIjoiODQuMTcwLjQ5Ljk0IiwicmVxdWVzdF9pZCI6IjgwNDI6OUEzOTpCNzI3RDoxMDE0OEQ6NUZBQzA5N0EiLCJ0aW1lc3RhbXAiOjE2MDUxMTAxNTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MmE1NDgwM2VjNTJmYTcxODI1MTBiMDgzZGJjZmFiNDg3ZGY5MWU5YWM4ZjQ1NmY4YTZhMTkzNTc1ZjlmODBjNHx7InJlbW90ZV9hZGRyZXNzIjoiNzkuMjEzLjk0LjE4NiIsInJlcXVlc3RfaWQiOiI4MzYwOjFEOUE6MkI3RUU0RjozQzk0QjhEOjVGQUQ1REREIiwidGltZXN0YW1wIjoxNjA1MTk3Mjg0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
-  <meta http-equiv="x-pjax-version" content="0f68153fc98ea69fbc2b94efd37d9ddd1a1cadef75f6b17f5cefbd0fddfdc1d2">
+  <meta http-equiv="x-pjax-version" content="3cd763018dc37cccf981cce92cb537414234178b5eb26d52e9ab192a0ee00085">
   
 
         <link href="https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commits/main.atom" rel="alternate" title="Recent Commits to Seminar_NWT_I-WiSe_2020:main" type="application/atom+xml">
@@ -194,7 +194,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="gT/vEzUmdw7g7Cvb400dhgZ2eGMGHtfa0oF8xiDnpboUeqUycwrIOVxAAnCASn8CNFhCa69VkY8a2TVnNZPM5A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="vBDrA3SeHX0qsHWtjvzSaZ7DzH3x0WHz39/927QuU1wpVaEiMrKiSpYcXAbt+7DtrO32dViaJ6YXh7R6oVo6Ag==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -344,7 +344,7 @@
       <img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/74306851?s=40&amp;v=4" width="20" height="20" alt="@MartinWagener" />
       MartinWagener
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="710793WFYoDJkTdH4gWWfrn9FVmajINzFwWCUlyzkEK/aIBRr0hGt0ukih6Trx27BqgCk4fIkn8ieOk25AiIgg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2XDqaML1uTWRgIqI5YqlO3f6Fmy8MLcXHj9x4Ok+bdSJRVHOGDidAhO1N9GUIC7+yK8BpqF0phsrQhqEUYV1FA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -364,7 +364,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
       
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzQzMDY4NTEiLCJ0IjoxNjA1MTEwMTUxfQ==--4d88eb29601625ad5661a17e68ed2a318cf3b55d688fabb9facc89137a470f85">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzQzMDY4NTEiLCJ0IjoxNjA1MTk3Mjg0fQ==--87fd2448ab5c0bbcaf5a7fa48c2d82bf6092e3b64f3938dcd4f690f7ba556359">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -454,7 +454,7 @@
     </div>
 </header>
 
-          
+            
     </div>
 
   <div id="start-of-content" class="show-on-focus"></div>
@@ -481,7 +481,7 @@
 </div>
 
 
-  
+    
 
   <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
@@ -509,7 +509,7 @@
       </p>
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="9ed1d58874e5ff394639820706e6f95c528357869479c5277aecb9079516801a" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="Pgg1EpeAnqZYgCdD9L1AjcQDHoiX4xN/HOuoMegxLNS+xCs4ECtEER3U+URrLmg0yrpkNJpWB3F53m+hdVa1/g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="QZjvdonvoaHdI35uYMzek0Wa2uDSFZ502J/v5CVfFRnBVPFcDkR7Fph3oGn/X/YqSyOgXN+ginq9qih0uDiMMw==" />
       <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="43f2c8eb6c5978ac1de5752b354ed262a9f42580fa5b894f75e5375de47fa0d5">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
@@ -549,7 +549,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="atErkfQHTylzVnvgB6O1efkFkY+l18tpAqLYaUhX7BDYXnA7hcZcJna167wwygLRtjkWMwzyEgJMiLKZA2qmmA==" />      <input type="hidden" name="repository_id" value="311945503">
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lj8Mdnks4aEu0DYoh1mYrLcJdGsSbePkBxgnJAz2A7MksFfcCO3yriszpnSwMC8E+DXz17tIOo9JMk3UR8tJOw==" />      <input type="hidden" name="repository_id" value="311945503">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="c358b58c335fe2945536652de006ce3bebfb4328e0aef21ca799fc31cbc56431" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -624,29 +624,29 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cp0twES7Q9pIHFWXPn0205F7Ni4H4ZHj5QquqavUBLptIAIjtwlw8efXzcVPbWvdxKcpYPyhlUZzbP8GI4wMsg==" />
+    <form class="starred js-social-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yYmsG9eUyDx59PVn+qHgxTt0fMtLkvKKeYL1dSmdWQquNIP4JCb7F9Y/bTWLsb3LbqhjhbDS9i/v5KTaocVRAg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar Meshlab-HSN/Seminar_NWT_I-WiSe_2020" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="1106100a501a2f115bae6454d0a07f05d033f68b7687cf4e2605eb04c7a5b232" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/stargazers"
-           aria-label="3 users starred this repository">
-           3
+           aria-label="4 users starred this repository">
+           4
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qCAxzCF0Va3AAmCuQkDDe3wR3Oh2QU0s/PjnjXcPaIpcJLLfCI64AW5FXaMGzK3RaL8fnGR8XeXz9ZkihzKQEg==" />
+    <form class="unstarred js-social-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Jdpo5C9Vw0+ym0PYTy8CeJrbe5AZoVc18+kM4g1LJorR3uv3Bq8u4xzcftULo2zSjnW45AucR/z85HJN/XbeEg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star Meshlab-HSN/Seminar_NWT_I-WiSe_2020" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="b9db5ea5bc1987c9dea0e3a2365b56c7ff0e6b387681fcb0630d5638de72767c" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/stargazers"
-           aria-label="3 users starred this repository">
-          3
+           aria-label="4 users starred this repository">
+          4
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FLD6HuqkbMoFthU1ckKEubZsxEqqw2yxGJBmM2Y86ghcwKLJk9qxaU+l/42W+E+6/w2lqo5WAKvMaf9AZyY2GQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4Jkz3PVIxTf8ogUKNYqfKP64X9K1Z8A5sSJKJJufUVio6WsLjDYYlLax77LRMFQrt9k+MpHyrCNl29NXmoWNSQ==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:311945503,&quot;originating_url&quot;:&quot;https://github.com/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/main/project_list.md&quot;,&quot;user_id&quot;:74306851}}" data-hydro-click-hmac="376903fc7b563c879cb423e46d9a1c3b7420d5e6a0f2032558c2f281eb3bbb75" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of Meshlab-HSN/Seminar_NWT_I-WiSe_2020 to your account" aria-label="Fork your own copy of Meshlab-HSN/Seminar_NWT_I-WiSe_2020 to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -677,7 +677,7 @@
         <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /Meshlab-HSN/Seminar_NWT_I-WiSe_2020/pulls" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/pulls">
               <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
             <span data-content="Pull requests">Pull requests</span>
-              <span title="7" class="Counter ">7</span>
+              <span title="0" hidden="hidden" class="Counter ">0</span>
 </a>      </li>
       <li class="d-flex">
         <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /Meshlab-HSN/Seminar_NWT_I-WiSe_2020/actions" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/actions">
@@ -770,9 +770,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/f2be0c84b126ba12ca4f584632e5ada61ac52d48/project_list.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/blob/b6fa6862caa7e0dd397a88c97b589c15e33331c7/project_list.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:dd8fe2e9bd1e50f6a53dceb834296bf0e79ad59a4afa571c7e86a73c6a601bdb -->
+    <!-- blob contrib key: blob_contributors:v22:846eb2af8edc4887a492ba02c7b52c093ad47c6167cb7bebc82998051afc4bd0 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -838,77 +838,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/thuehn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thuehn"><img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/1880886?s=48&amp;v=4" width="24" height="24" alt="@thuehn" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold link-gray-dark" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/thuehn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thuehn">thuehn</a>
-
-              <span>
-                <a data-pjax="true" title="Update project_list.md" class="link-gray" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commit/f2be0c84b126ba12ca4f584632e5ada61ac52d48">Update project_list.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commit/f2be0c84b126ba12ca4f584632e5ada61ac52d48/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/contributors/main/project_list.md" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono link-gray" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commit/f2be0c84b126ba12ca4f584632e5ada61ac52d48" data-pjax>f2be0c8</a>
-            <span itemprop="dateModified"><relative-time datetime="2020-11-11T14:22:48Z" class="no-wrap">Nov 11, 2020</relative-time></span>
-          </span>
 
-          <a data-pjax href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commits/main/project_list.md" class="ml-3 no-wrap link-gray-dark no-underline">
-            <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
-      <summary class="link-gray-dark">
-        <svg class="octicon octicon-people text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
-        <strong>2</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/contributors-list/main/project_list.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/thuehn/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commits/main/project_list.md?author=thuehn">
-      <img class="avatar mr-2 avatar-user" src="https://avatars1.githubusercontent.com/u/1880886?s=48&amp;v=4" width="24" height="24" alt="@thuehn" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/jonasjelonek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/commits/main/project_list.md?author=jonasjelonek">
-      <img class="avatar mr-2 avatar-user" src="https://avatars1.githubusercontent.com/u/52761381?s=48&amp;v=4" width="24" height="24" alt="@jonasjelonek" /> 
-</a>
-</span>
-
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -921,9 +861,9 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      22 lines (20 sloc)
+      23 lines (20 sloc)
       <span class="file-info-divider"></span>
-    1.63 KB
+    2.01 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -942,13 +882,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/edit/main/project_list.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KxUim838YqIe426nmiKsi1Sn7UrrCw3MP591gg+AMhs7r9L8NYXBDnIIajMkvWSGXONCGMHZpg8Odb2Dvo2wzA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/edit/main/project_list.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lm8XxTQHeS1XS9kzSF3rLkpnQSHctmgMqgGrrL+dsBuG1eeizH7agTug3af2wiMjQiPuc/Zkw8+b62OtDpAyzA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/delete/main/project_list.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MeFwV0NWayP9DXYUnvx0JYq1nWIu9QgShSDxiyLuthzIcbCBi0Cl7FuFYvXBy5U3HgVJSUr6EeZ4INc2PO03Qg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Meshlab-HSN/Seminar_NWT_I-WiSe_2020/delete/main/project_list.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mUszK+YDo/eQwvQhlb/1aaxCcl8KVazLpBk0lyGm7jVg2/P9LhVtODZK4MDKiBR7OPKmdG5atT9ZGRIqP6Vvaw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -959,82 +899,96 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-nwt-i-wise-2020-projects" class="anchor" aria-hidden="true" href="#nwt-i-wise-2020-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>NWT I WiSe 2020 projects</h1>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-choose-your-projects" class="anchor" aria-hidden="true" href="#choose-your-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>...choose your Projects!</h1>
 <br>
-Here you can find a list of all available projects for WiSe 2020 NWT I.  
-If you have further ideas feel free to open a pull request.  
-<p><strong>2 or 3 persons per group</strong></p>
+Here you find the list of available projects we need to cover to build the gEht-NET ISP network.  
+If you have an additional network related ideas ... feel free to open a pull request.  
+<p><strong>Choose &amp; Commit ... 2_to_3 students per group</strong></p>
 <table>
 <thead>
 <tr>
 <th>Project title</th>
 <th align="center">Project description</th>
-<th align="center">Participants</th>
+<th align="center">primary preference</th>
+<th align="center">secondary preference</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Inventory management</td>
 <td align="center">Inventory management for all network components and resources. (e.g. Netbox)</td>
+<td align="center">A. Janiak,<br>M. Marquardt,<br>J.Stephan</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td>Network monitoring</td>
 <td align="center">Monitoring several statistics like uptime, traffic, load, etc. (e.g. Cacti, Nagios, Grafana)</td>
+<td align="center">N. Trapp,<br>J. Haase</td>
 <td align="center"></td>
 </tr>
 <tr>
-<td>Ticket system / wiki</td>
-<td align="center">OTRS -Open Technology Real Services</td>
+<td>Ticket system &amp; wiki</td>
+<td align="center">OTRS - Open Technology Real Services</td>
 <td align="center">M.Wagener</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>Customer self-services</td>
 <td align="center">Customers can manage and organize their network with the help of provider services and without much knowledge. (see TIP project and its standard)</td>
+<td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
 <td>CG-NAT and firewall</td>
 <td align="center">Carrier-Grade NAT implementation and configuration of a firewall.</td>
 <td align="center"></td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>IDS</td>
 <td align="center">Usage of an intrusion detection system for increasing network security</td>
+<td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
 <td>SIP telephony</td>
 <td align="center">Establishing a telephony system in our ISP network based on SIP protocol.</td>
 <td align="center"></td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>TV streaming platform</td>
 <td align="center">Providing TV streams for the customers on the ISP network.</td>
 <td align="center"></td>
+<td align="center">A. Janiak <br> M. Marquardt <br> J.Stephan</td>
 </tr>
 <tr>
 <td>VLAN concept for lab</td>
 <td align="center">Working out a VLAN concept for the ISP network.</td>
+<td align="center">F. Wenzel,<br>A. Hattenhauer,<br>N. Collmann</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td>IP address assignment and network redundancy</td>
 <td align="center">Organisation of the IP assignment(dhcp?, static?) in the ISP network and implementation of redundancy (USV, cable management, server etc.).</td>
-<td align="center">J. Jelonek<br>P. Büchler</td>
+<td align="center">J. Jelonek,<br>P. Büchler</td>
+<td align="center">V. Begau,<br>O. Schröder</td>
 </tr>
 <tr>
 <td>Remote power sockets</td>
 <td align="center">In case something goes wrong or a device needs a restart, students should have the ability the remotely control the power supply of their desk setups.</td>
+<td align="center">V. Begau,<br>Oliver Schröder</td>
 <td align="center"></td>
 </tr>
 <tr>
-<td>DNS Server Konzept</td>
+<td>DNS server concept</td>
+<td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td>Caching Server Konzept</td>
+<td>Caching server concept</td>
+<td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
 </tr>
@@ -1114,7 +1068,7 @@ If you have further ideas feel free to open a pull request.
     <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
     <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
   </div>
-  <template id="site-details-dialog">
+    <template id="site-details-dialog">
   <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
     <summary role="button" aria-label="Close dialog"></summary>
     <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
@@ -1126,12 +1080,12 @@ If you have further ideas feel free to open a pull request.
   </details>
 </template>
 
-  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
   <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
   </div>
 </div>
 
-    <div class="js-cookie-consent-banner" hidden>
+      <div class="js-cookie-consent-banner" hidden>
   <div class="hx_cookie-banner p-2 p-sm-3 p-md-4">
     <div style="max-width: 1194px;" class="Box hx_cookie-banner-box box-shadow-medium mx-auto">
     <div class="Box-body border-0 py-0 px-3 px-md-4">
