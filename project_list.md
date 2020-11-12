@@ -10,7 +10,7 @@ If you have an additional network related ideas ... feel free to open a pull req
 |----------------------  | :---------------------------: | :--------------------: | :--------------------: |
 |Inventory management    | Inventory management for all network components and resources. (e.g. Netbox) | A. Janiak,<br/>M. Marquardt,<br/>J.Stephan |
 |Network monitoring      | Monitoring several statistics like uptime, traffic, load, etc. (e.g. Cacti, Nagios, Grafana) | N. Trapp,<br/>J. Haase |
-|Ticket system & wiki    | | |
+|Ticket system & wiki    | OTRS - Open Technology Real Services| M.Wagener |
 |Customer self-services  | Customers can manage and organize their network with the help of provider services and without much knowledge. (see TIP project and its standard) | |
 |CG-NAT and firewall     | Carrier-Grade NAT implementation and configuration of a firewall. | |
 |IDS                     | Usage of an intrusion detection system for increasing network security | |
