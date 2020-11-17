@@ -12,7 +12,7 @@ If you have an additional network related ideas ... feel free to open a pull req
 |Network monitoring      | Monitoring several statistics like uptime, traffic, load, etc. (e.g. Cacti, Nagios, Grafana) | N. Trapp,<br/>J. Haase |
 |Ticket system & wiki    | OTRS - Open Technology Real Services| M.Wagener |
 |Customer self-services  | Customers can manage and organize their network with the help of provider services and without much knowledge. (see TIP project and its standard) | |
-|CG-NAT and firewall     | Carrier-Grade NAT implementation and configuration of a firewall. | |
+|CG-NAT and firewall     | Carrier-Grade NAT implementation and configuration of a firewall. | | M.Toepfer,<br/>J.Hebestreit
 |IDS                     | Usage of an intrusion detection system for increasing network security | |
 |SIP telephony           | Establishing a telephony system in our ISP network based on SIP protocol. | |
 |TV streaming platform   | Providing TV streams for the customers on the ISP network. | | A. Janiak <br/> M. Marquardt <br/> J.Stephan
