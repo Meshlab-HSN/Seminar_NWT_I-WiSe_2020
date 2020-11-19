@@ -1,4 +1,4 @@
-# ...choose your Projects!
+# ...choose your Projects to get gEht-net up & running!
 <br/>
 Here you find the list of available projects we need to cover to build the gEht-NET ISP network.  
 If you have an additional network related ideas ... feel free to open a pull request.  
