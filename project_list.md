@@ -13,11 +13,11 @@ If you have an additional network related ideas ... feel free to open a pull req
 |Development & Ticket System	| code repos, support & troubleshooting		| Github, GitLab, Flyspray | n.a.
 |Self-Services			| documentation, wiki, bullet board, chat	| Readthedocs, DokuWiki | n.a.
 |NAT & Firewall Concept & Serv.	| share IPv4 adresses, protect net ressources	| nftables, IPCop	| n.a.
-|Intrusion Det. Concept & Serv.	| IDS to catch maleware, spam, attacks		| BRO, Snort		| Martin Wagener, Tim Ziemann
+|Intrusion Det. Concept & Serv.	| IDS to catch maleware, spam, attacks		| BRO, Snort		| Martin Wagener, Tim Ziemann, Amer Alyasin
 |VoIP Concept & Service		| SIP PBX to make good old telephone calls	| Asterix, Freeswitch, SipWise | Eedgar Tetsch, Philipp Glassl
 |IPTV Concept & Service		| broadcast TV stations as OTT service		| openOTT,		| Maurice Toepfer , Jonas Hebestreit
 |VLAN Concept & Setup		| structured vCabling for resource segmentation | 802.11q, vxlan, 	| F. Wenzel, A. Hattenhauer, N. Collmann 
 |IP Address Concept & Setup	| IPv4 & IPv6 address assignments & failover	| ip, dhcp, usv, bonding| J. Jelonek, P. Büchler
 |Remote Access Concept & Setup	| remote lab login, serial access & power cycle	| ssh, telnet, bash	| V. Begau, Oliver Schröder
-|DNS Name-Resolution Service	| FQDMs in our domain orchestrated by DNS	| bind, ubound, dnsmasq	| Martin Wagener, Tim Ziemann
+|DNS Name-Resolution Service	| FQDMs in our domain orchestrated by DNS	| bind, ubound, dnsmasq	| n.a.
 |Caching Server Concept & Setup	| DC caches for web, updates, youtube content	| squid, polipo 	| n.a.
