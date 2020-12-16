@@ -13,4 +13,4 @@ Meshlab_NWT1_2020
  team_rem-acc    ssh port: 22107
 
 
-```ssh -l vagrant -p my_team_Port 5.102.161.62 -i /User/Desktop/my_private_key```
+```ssh -l root -p my_team_Port 5.102.161.62 -i /User/Desktop/my_private_key```
