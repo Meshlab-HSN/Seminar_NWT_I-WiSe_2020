@@ -14,3 +14,8 @@ Meshlab_NWT1_2020
 
 
 ```ssh -l root -p my_team_Port 5.102.161.62 -i /User/Desktop/my_private_key```
+
+In case you want to add another public key to your VM (from your team member), just add this new public ssh key to the authorized_key file with an editor of your choise:
+
+```vim.tiny /root/.ssh/authorized_keys```
+append a new line with the content of the public key you want to add & save file
