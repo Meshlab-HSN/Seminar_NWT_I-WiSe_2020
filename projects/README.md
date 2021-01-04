@@ -13,7 +13,7 @@ Meshlab_NWT1_2020
  team_rem-acc    ssh port: 22107
 
 
-```ssh -l root -p my_team_Port 5.102.161.62 -i /User/Desktop/my_private_key```
+```ssh -l root -p my_team_Port 109.73.30.34 -i /User/Desktop/my_private_key```
 
 In case you want to add another public key to your VM (from your team member), just add this new public ssh key to the authorized_key file with an editor of your choise:
 
