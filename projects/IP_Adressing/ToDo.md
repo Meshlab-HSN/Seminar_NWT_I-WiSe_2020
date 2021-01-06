@@ -6,3 +6,7 @@ Uploading data is done by opening a new pull request.
 - [x] Upload your public ssh key (to your team folder)
 - [x] Check ssh connectivity to your VM
 - [ ] Prepare your demo
+
+
+Get 2 virtual OpenWRTs and one QEMU bridge running via QEMU
+Configure virtual network
